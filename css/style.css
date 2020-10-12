@@ -1,0 +1,65 @@
+.centrar{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.font{
+	display: inline-flex;
+	font-size: 30px;
+	color: white;
+	margin: 10px;
+	padding: 50px;
+	width: 50%;
+	text-align: left;
+}
+.contenedor{
+	display: inline-flex;
+	width: 100%;
+}
+.titulo{
+	font-size: 30px;
+	color: rgb(226, 175, 35);
+	text-align: center;
+}
+.btn {
+	font-size: 30px;
+	background-color:rgb(168, 7, 7);
+	border-radius: 10px;
+	color: white;
+	margin: 20px;
+	display: inline-block;
+	width: 200px;
+	padding: 16px 24px;
+	text-align: center;
+	text-decoration: none;
+  }
+.btn:hover {
+	background-color: #45b18d;
+  }
+header, footer{
+	background-color: white;
+	font-size: 50px;
+	color: black;
+	text-align: center;
+}
+.foto{
+	height: 300px;
+	width: 350px;
+}
+.logo{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	height: 200px;
+	width: 350px;
+}
+.mapa{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+}
+.fondo{
+    background-color:rgb(28, 31, 28);
+}
